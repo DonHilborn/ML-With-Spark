@@ -19,7 +19,7 @@ The implementation of the same examples in Octave is also available at <https://
 
 ####K-Means Clustering
 
-####Principal Component Anaylysis
+####Principal Component Analysis
 
 ##How to run?
 
